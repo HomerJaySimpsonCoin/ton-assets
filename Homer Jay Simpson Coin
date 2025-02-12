@@ -1,0 +1,19 @@
+{
+  "address": "EQAGZavRXQ_w7yZbaoptBjdpbA6CuMoOO-HOvAMVnXheXIYQ",
+  "name": "Homer Jay Simpson",
+  "symbol": "HJSC",
+  "decimals": 9,
+  "description": "That's me - big, bald, love donuts and beer, and sometimes sleep on the job.",
+  "website": "http://cryptohomer.online",
+  "social_links": [
+    {
+      "name": "Telegram",
+      "url": "https://t.me/cryptohomercoin"
+    },
+    {
+      "name": "X",
+      "url": "https://x.com/coinhomer?s=21"
+    }
+  ],
+  "image": "https://i.postimg.cc/KYHrrKtJ/temp-Image-KXd3z-O.avif"
+}
